@@ -1,0 +1,35 @@
+Let's break down how you'll use this guide:
+
+### Feature Explanation followed by Step-by-Step Instructions:
+
+#### Set up a new server:
+1. Open the AWS website and sign in.
+2. Go to the EC2 section, which is where you manage your servers.
+3. Choose the right settings for your new server, like what type of computer you want and where you want it to be.
+4. Start up your new server and wait for it to be ready.
+
+#### Add extra storage:
+1. In the EC2 section, find the part where you can add extra storage.
+2. Click to create a new storage volume and choose how big you want it to be.
+3. Attach the new storage to your server.
+
+#### Create folders:
+1. Log in to your server.
+2. Use some simple commands to make new folders on your storage.
+
+#### Store files:
+1. Use your server like you would a regular computer to put files into your folders.
+
+#### Make your storage bigger:
+1. Go back to the AWS website and find your server.
+2. Change the settings to give your server more storage space.
+
+#### Back up your storage:
+1. Create a copy of your storage, called a snapshot, to keep your files safe.
+2. If you want, you can even move that copy to a different part of the world in case something bad happens where your server is.
+
+## Important Note:
+
+This project is all about learning, so don't worry if you're not sure about something. Take your time, follow the instructions, and feel free to ask questions if you get stuck.
+
+Now, let's dive in and start managing your AWS storage together!
